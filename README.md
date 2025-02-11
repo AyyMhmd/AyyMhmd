@@ -1,16 +1,26 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**AyyMhmd/AyyMhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Halo! 👋 Perkenalkan nama saya **Ayi Muhamad Nasrulloh** adalah seorang mahasiswa di **STT Cipasung** yang saat ini sedang mengikuti program **Bootcamp di Dicoding** [Dicoding](https://www.dicoding.com/) dengan fokus pada pengembangan **Front End** dan **Back End**.<br>
 
-Here are some ideas to get you started:
+## Tentang Saya
+- 🎓 Mahasiswa **STT Cipasung**
+- 💻 Mengikuti **Bootcamp Dicoding** dengan spesialisasi di **Front End** dan **Back End**
+- 🌱 Tertarik dengan pengembangan web, teknologi terbaru, dan solusi kreatif untuk masalah teknis
+- 🚀 Selalu bersemangat untuk belajar hal-hal baru dan meningkatkan keterampilan coding<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Teknologi yang Digunakan
+- **Front End**: HTML, CSS, JavaScript, React.js, Vue.js
+- **Back End**: Node.js, Express.js, PHP, Laravel
+- **Database**: MySQL, PostgreSQL
+- **Tools**: Git, VS Code, Docker.<br>
+
+## Tujuan
+Portofolio ini dibuat untuk menampilkan progres dan kemampuan saya dalam pengembangan web. Saya berharap dapat terus berkembang dan berkontribusi dalam proyek-proyek yang lebih besar dan bermanfaat di masa depan.<br>
+
+## Hubungi Saya
+- 📧 Email: [ayi.muhamadd@gmail.com]
+- 💼 LinkedIn: [[link LinkedIn Anda](http://www.linkedin.com/in/ayi-muhamad-nasrulloh)]
+
+Terima kasih telah mengunjungi portofolio saya! Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi dalam proyek menarik. 😊
+
+---
