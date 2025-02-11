@@ -13,6 +13,12 @@ Halo! 👋 Perkenalkan nama saya **Ayi Muhamad Nasrulloh** adalah seorang mahasi
 - **Back End**: Node.js, Express.js, PHP, Laravel
 - **Database**: MySQL, PostgreSQL
 - **Tools**: Git, VS Code, Docker.<br>
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyyMhmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyyMhmd&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 ## Tujuan
 Portofolio ini dibuat untuk menampilkan progres dan kemampuan saya dalam pengembangan web. Saya berharap dapat terus berkembang dan berkontribusi dalam proyek-proyek yang lebih besar dan bermanfaat di masa depan.<br>
