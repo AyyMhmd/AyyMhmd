@@ -3,8 +3,8 @@
 Halo! 👋 Perkenalkan nama saya **Ayi Muhamad Nasrulloh** Lulusan S1 Informatika Sekolah Tinggi Teknologi Cipasung dengan fokus pada Front-End Web Development. Berpengalaman sebagai Web Developer Intern di Dicoding Indonesia (MSIB, Feb-Jul 2025), membangun aplikasi web dengan HTML, CSS, JavaScript, dan Bootstrap, serta mengintegrasikan API menggunakan Git/GitHub. Telah menyelesaikan proyek capstone e-Syarat (web pembelajaran Bahasa Isyarat dengan WebCam Tracking) dan SPA CeritaKita. Siap berkontribusi dalam dunia kerja untuk membangun antarmuka web yang cepat, rapi, dan mudah digunakan.<br>
 
 ## Tentang Saya
-- 🎓 Mahasiswa **STT Cipasung**
-- 💻 Mengikuti **Bootcamp Dicoding** dengan spesialisasi di **Front End** dan **Back End**
+- 🎓 Lulusan **Sekolah Tinggi Teknologi Cipasung**
+- 💻 alumni **Bootcamp Dicoding** dengan spesialisasi di **Front End** dan **Back End** Feb 2025 - Jul 2025
 - 🌱 Tertarik dengan pengembangan web, teknologi terbaru, dan solusi kreatif untuk masalah teknis
 - 🚀 Selalu bersemangat untuk belajar hal-hal baru dan meningkatkan keterampilan coding<br>
 
